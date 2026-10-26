@@ -1,17 +1,15 @@
 <div align="center">
 
   <!-- Executive Banner -->
-  <img src="assets/banner.png" alt="Jivesh Ranjan Tiwari - Principal Cloud Solutions Architect & DevSecOps Leader" width="100%" style="border-radius: 10px;" />
+  <img src="assets/banner.png" alt="Jivesh Ranjan Tiwari - Principal Cloud Solutions Architect | DevOps & DevSecOps Leader | Enterprise AI Strategist" width="100%" style="border-radius: 10px;" />
 
   <br/><br/>
 
-  <!-- Dynamic Typing SVG Headline -->
-  <a href="https://linkedin.com/in/jiveshranjantiwari">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=false&width=820&height=45&lines=Principal+Cloud+Solutions+Architect+%7C+13%2B+Years+IT+Excellence;Enterprise+DevSecOps+Leader+%7C+Kubernetes+%26+Platform+Mesh;Enterprise+AI+Strategist+%7C+Model+Context+Protocol+(MCP)+%26+RAG;Multi-Cloud+Architect+%7C+Microsoft+Azure+CAF+%7C+AWS+%7C+GCP;Zero-Trust+Security+%7C+NIST+SP+800-207+%26+FinOps+(%243.2M%2B+Saved)" alt="Dynamic Headline" />
-  </a>
+  <!-- Executive Headline -->
+  <h3><strong>Principal Cloud Solutions Architect | DevOps & DevSecOps Leader | Enterprise AI Strategist</strong></h3>
 
   <p align="center">
-    <strong>Architecting Zero-Trust Multi-Cloud Estates • Autonomous Agentic AIOps • High-Velocity DevSecOps</strong>
+    <em>Transforming Enterprise Estates across Multi-Cloud, Zero-Trust Infrastructure & Autonomous Agentic AI</em>
   </p>
 
   <!-- Executive Quick Action Badges -->
@@ -58,7 +56,7 @@
 
 ## 🏛️ Executive Profile & Architectural Operating Model
 
-**Jivesh Ranjan Tiwari** is a **Principal Cloud Solutions Architect & DevSecOps Leader** with **13+ years of IT engineering excellence**, including **12+ years designing, delivering, and optimizing mission-critical enterprise-scale multi-cloud environments**.
+**Jivesh Ranjan Tiwari** is a **Principal Cloud Solutions Architect, DevOps & DevSecOps Leader, and Enterprise AI Strategist** with **13+ years of IT engineering excellence**, including **12+ years designing, delivering, and optimizing mission-critical enterprise-scale multi-cloud environments**.
 
 Specializing in **Microsoft Azure**, **Amazon Web Services (AWS)**, and **Google Cloud Platform (GCP)**, Jivesh directs complex cloud transformation programs—modernizing legacy monolithic estates into secure, resilient, containerized microservices architectures governed by declarative Infrastructure as Code (IaC) and autonomous operational intelligence.
 
