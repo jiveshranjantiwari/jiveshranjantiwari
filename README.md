@@ -1,6 +1,9 @@
 <div align="center">
 
-  # Jivesh Ranjan Tiwari
+  <img src="assets/banner.png" alt="Jivesh Ranjan Tiwari - Senior DevOps, DevSecOps, MLOps, AIOps & SecOps Engineer" width="100%" />
+
+  <br/><br/>
+
   ### **Principal Cloud Solutions Architect | DevSecOps Leader | Enterprise AI Strategist**
 
   *Transforming Enterprise Estates across Multi-Cloud, Zero-Trust Infrastructure & Autonomous Agentic AI*
